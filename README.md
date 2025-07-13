@@ -1,3 +1,3 @@
 # sistema-operativo-rocca
-![Sistema Operativo Rocca](./assets/logo.png)
+![Logo](https://raw.githubusercontent.com/juanperez/sistema-operativo-rocca/main/assets/logo.png)
 Sistema operativo con soluciones y herramientas informáticas para Refugio Agostino Rocca.
